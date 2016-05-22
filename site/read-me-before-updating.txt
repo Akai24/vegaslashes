@@ -1,0 +1,1 @@
+If you are an Existing User of Canvas, Please read the Documentation before updating from v3 to v4.
