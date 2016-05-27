@@ -1,0 +1,57 @@
+UPDATES:
+
+14th june 2013 -
+
+Removed Twitter Feed due to new Twitter API.
+If updating please remove the following:
+
+1) style > js > custom.js
+Remove:
+/*******************************************************
+  ADD YOUR TWITTER ID HERE - REPLACE jo_phillips
+********************************************************/
+jQuery(function($){
+        $("#ticker").tweet({
+          username: "jo_phillips",
+          page: 1,
+          avatar_size: 0,
+          count: 20,
+          loading_text: "loading ..."
+        }).bind("loaded", function() {
+          var ul = $(this).find(".tweet_list");
+          var ticker = function() {
+            setTimeout(function() {
+              ul.find('li:first').animate( {marginTop: '-4em'}, 500, function() {
+                $(this).detach().appendTo(ul).removeAttr('style');
+              });
+              ticker();
+            }, 5000);
+          };
+          ticker();
+        });
+      });
+
+Then scroll to the bottom of this file and remove all the code under - 
+/***************************************************
+	TWITTER
+***************************************************/
+
+2) Remove:
+<!--TWITTER-->
+<div id="ticker" class="query">
+</div>
+from your index page.
+
+3) Remove: 
+Twitter styling from the style.css file.
+
+========================================================================
+========================================================================
+
+9th June 2013 -
+1) Updated Flexslider PrettyPhoto and jQuery. 
+If upgrading your site replace:
+style > js > jquery.flexslider-min.js
+style > js > jquery-1.9.1.js
+style > js > custom.js 
+
