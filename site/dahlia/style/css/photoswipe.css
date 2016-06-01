@@ -87,8 +87,6 @@ div.ps-caption-content
 div.ps-toolbar
 { 
 	background: #000000;
-	background: -moz-linear-gradient(top, #303130 0%, #000101 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#303130), color-stop(100%,#000101));
 	border-top: 1px solid #42403f;
 	color: #ffffff;
 	font-size: 13px;

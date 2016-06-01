@@ -53,13 +53,12 @@ a {
 a:hover{ color:#fff; text-decoration:none; }
 
 /*-- big background image --*/
-#bgimg { position:fixed; z-index: -1; }
+#bgimg { position:fixed;}
 
 /*-- content starts --*/
 #realBody {
 	position:relative;
 	z-index:99999;
-	background:url('../../style/images/raster.png');
 	padding-bottom:20px;
 }
 
@@ -94,9 +93,9 @@ cite{ color:#e4afc3; }
 /* YOUR NAME ++++++++++++++++++++++++++++++++++++++++++++ */
 .header h1 {
 	padding:45px 0 15px 0;
-	font-size:48px;
-	color:#fff;
-	font-family:'Josefin Slab', Georgia, serif;
+	font-size:60px;
+	color:black;
+	font-family:'Tangerine', serif;
 	font-weight:400;
 	line-height:10px;
 	text-align:center;
@@ -106,10 +105,10 @@ cite{ color:#e4afc3; }
 /* JOB TITLE ++++++++++++++++++++++++++++++++++++++++++++ */
 .header h2, .copyright h2 {
 	padding-bottom:25px;
-	font-size:13px;
-	color:#fff;
+	font-size:20px;
+	color:black;
 	font-style:normal;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Tangerine', serif;
 	font-weight:400;
 	text-align:center;
 	letter-spacing:0.05em;
@@ -171,9 +170,6 @@ cite{ color:#e4afc3; }
 	border:1px solid #555;
 }
 
-/* TESTIMONIAL QUOTE ++++++++++++++++++++++++++++++++++++++++++++ */
-.quote { background:url('../../style/images/quotemark.png') no-repeat 3px 0px; }
-
 /*--columns--*/
 .two_col {
 	width:48%;
@@ -191,7 +187,7 @@ cite{ color:#e4afc3; }
 .table {
 	width: 100%;
 	margin:0 0;
-	border-collapse: collapse;
+	border-collapse: separate;
 	border-spacing: 0;
 }
 .table th, .table td { padding: 8px; line-height: 19px; text-align: left; border-top: 1px solid #333; }
@@ -258,7 +254,7 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 
 /*--large title links --*/
 .st-accordion ul li>a {
-	font-family:'Josefin Slab', Georgia, serif;
+	font-family:'Tangerine', serif;
 	text-shadow:1px 1px 1px #000;
 	font-size:40px;
 	display:block;
