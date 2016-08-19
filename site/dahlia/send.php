@@ -6,7 +6,7 @@
 <body>
 <?php
 
-$email_to = "ADD YOUR EMAIL ADDRESS HERE";
+$email_to = "jokerbatman59@gmail.com";
 
 $name = $_POST["name"];
 

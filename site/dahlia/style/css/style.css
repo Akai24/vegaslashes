@@ -32,8 +32,8 @@ em { font-style:italic; }
 	01. GENERAL
 ***************************************************/
 body {
-	background:#444;
-	color:#bbb;
+	background:#ffffff;
+	color:#ffffff;
 	font-family: 'Open Sans', sans-serif;
 	font-size:12px;
 	line-height:1.8em;
@@ -351,9 +351,9 @@ html[xmlns] .slides { display:block; }
 .no-js .slides>li:first-child { display: block;}
 .flexslider {
 	background:#fff;
-	border:4px solid #bbb;
+	border:0px solid #bbb;
 	position:relative;
-	-webkit-border-radius:5px;
+	-webkit-border-radius:2px;
 	-moz-border-radius:5px;
 	-o-border-radius:5px;
 	border-radius:5px;
@@ -894,6 +894,7 @@ and (min-width: 768px) and (max-width: 790px) {
 	height:auto;
 	margin: 0 auto;
 	width:100%;
+    position: fixed;
 }
 .pic{width:15.4%;
 	padding:0;
