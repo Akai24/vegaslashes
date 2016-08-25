@@ -32,11 +32,13 @@ em { font-style:italic; }
 	01. GENERAL
 ***************************************************/
 body {
-	background:#ffffff;
-	color:#ffffff;
+	background:#330066;
+	color:#DDD;
 	font-family: 'Open Sans', sans-serif;
-	font-size:12px;
+	font-size:14px;
 	line-height:1.8em;
+	font-weight: 300;
+	letter-spacing: 1px;
 }
 
 p { padding:0 0 15px 0; }
@@ -91,16 +93,24 @@ cite{ color:#e4afc3; }
 }
 
 /* YOUR NAME ++++++++++++++++++++++++++++++++++++++++++++ */
+.header
+{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 50px;	
+}
+
 .header h1 {
 	padding:45px 0 15px 0;
 	font-size:60px;
-	color:black;
-	font-family:'Tangerine', serif;
+	color:white;
+	font-family:'Kalam', serif;
 	font-weight:400;
 	line-height:10px;
 	text-align:center;
 	text-shadow:0 -1px 0 rgba(0,0,0,.6);
 	font-style:normal;
+	margin-bottom: 30px;
 }
 /* JOB TITLE ++++++++++++++++++++++++++++++++++++++++++++ */
 .header h2, .copyright h2 {
@@ -108,7 +118,7 @@ cite{ color:#e4afc3; }
 	font-size:20px;
 	color:black;
 	font-style:normal;
-	font-family: 'Tangerine', serif;
+	font-family: 'Kalam', serif;
 	font-weight:400;
 	text-align:center;
 	letter-spacing:0.05em;
@@ -254,11 +264,11 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 
 /*--large title links --*/
 .st-accordion ul li>a {
-	font-family:'Tangerine', serif;
+	font-family:'Kalam', serif;
 	text-shadow:1px 1px 1px #000;
 	font-size:40px;
 	display:block;
-	color:#eee;
+	color:#806092;
 	position:relative;
 	line-height:80px;
 	outline:none;margin-left:4px;
@@ -285,9 +295,9 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 	-ms-transition:all 0.2s ease-in-out;
 	transition:all 0.2s ease-in-out;
 }
-.st-accordion ul li>a:hover { color:#D130A7; }
+.st-accordion ul li>a:hover { color:#FFF; }
 .st-accordion ul li>a:hover span { opacity:1; right:10px; }
-.st-accordion ul li.st-open>a {  color:#D130A7;  }
+.st-accordion ul li.st-open>a {  color:#806092;  }
 .st-accordion ul li.st-open>a span {
 	-webkit-transform:rotate(180deg);
 	-moz-transform:rotate(180deg);
@@ -296,22 +306,25 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 	opacity:1;
 }
 .st-accordion h2 {
-	font-size:14px;
-	margin:0 0px;
+	font-size:20px;
+	margin:15px 0px 15px 0px;
 	text-align:left;
-	color:#eee;
-	padding-bottom:24px;
-	text-transform:uppercase;
+	color:#e4afc3;		
 }
 .st-accordion h3 {
-	font-size:13px;
-	margin:0 0px 15px 0px;
+	font-size:18px;
+	margin:15px 0px 15px 0px;
 	text-align:left;
 	color:#e4afc3;
 }
 
 /*--MINIMUM HEIGHT OF YOUR PANELS --*/
 .st-content { min-height:300px; padding:5px 4px 30px 4px; }
+
+.st-content img {
+	margin: 20px auto;
+	display: block;	
+}
 
 @media screen and (max-width:320px) {
 .st-accordion ul li>a {
@@ -331,7 +344,11 @@ font-size:30px;}
 .flexslider { margin:0; padding:0; }
 .flexslider .slides>li { display:none; -webkit-backface-visibility: hidden; }
 /* Hide the slides before the JS is loaded. Avoids image jumping */
-.flexslider .slides img { max-width:100%; display:block; }
+.flexslider .slides img { 
+	max-width:100%;
+	display:block;
+	width: 100%;
+}
 .flex-pauseplay span { text-transform: capitalize; }
 
 /* Clearfix for the .slides element */
@@ -350,7 +367,7 @@ html[xmlns] .slides { display:block; }
 /* If you are not using another script,such as Modernizr,make sure you * include js that eliminates this class on page load */
 .no-js .slides>li:first-child { display: block;}
 .flexslider {
-	background:#fff;
+	background:#0a0014;
 	border:0px solid #bbb;
 	position:relative;
 	-webkit-border-radius:2px;
