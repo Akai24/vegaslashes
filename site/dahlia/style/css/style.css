@@ -100,6 +100,11 @@ cite{ color:#e4afc3; }
 	margin-bottom: 50px;	
 }
 
+.header img
+{	
+	max-width: 400px;
+}
+
 .header h1 {
 	padding:45px 0 15px 0;
 	font-size:30px;
@@ -271,7 +276,8 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 	color:#ccc;
 	position:relative;
 	line-height:80px;
-	outline:none;margin-left:4px;
+	outline:none;
+	margin-left:4px;
 	-webkit-transition:color 0.2s ease-in-out;
 	-moz-transition:color 0.2s ease-in-out;
 	-o-transition:color 0.2s ease-in-out;
@@ -296,7 +302,7 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 	transition:all 0.2s ease-in-out;
 }
 .st-accordion ul li>a:hover { color:#FFF; }
-.st-accordion ul li>a:hover span { opacity:1; right:10px; }
+.st-accordion ul li>a:hover span { opacity:; right:10px; }
 .st-accordion ul li.st-open>a {  color:#ccc;  }
 .st-accordion ul li.st-open>a span {
 	-webkit-transform:rotate(180deg);
@@ -323,7 +329,8 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 
 .st-content img {
 	margin: 20px auto;
-	display: block;	
+	display: block;
+	width: 100%;	
 }
 
 @media screen and (max-width:320px) {
@@ -338,6 +345,11 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 
 	.st-accordion h2 {
 		font-size: 18px;
+	}
+
+	.header img
+	{	
+		max-width: 300px;
 	}
 
 }
