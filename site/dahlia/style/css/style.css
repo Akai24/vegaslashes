@@ -32,7 +32,7 @@ em { font-style:italic; }
 	01. GENERAL
 ***************************************************/
 body {
-	background:#330066;
+	background:#660099;
 	color:#DDD;
 	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
@@ -102,7 +102,7 @@ cite{ color:#e4afc3; }
 
 .header h1 {
 	padding:45px 0 15px 0;
-	font-size:60px;
+	font-size:30px;
 	color:white;
 	font-family:'Kalam', serif;
 	font-weight:400;
@@ -268,7 +268,7 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 	text-shadow:1px 1px 1px #000;
 	font-size:40px;
 	display:block;
-	color:#806092;
+	color:#ccc;
 	position:relative;
 	line-height:80px;
 	outline:none;margin-left:4px;
@@ -297,7 +297,7 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 }
 .st-accordion ul li>a:hover { color:#FFF; }
 .st-accordion ul li>a:hover span { opacity:1; right:10px; }
-.st-accordion ul li.st-open>a {  color:#806092;  }
+.st-accordion ul li.st-open>a {  color:#ccc;  }
 .st-accordion ul li.st-open>a span {
 	-webkit-transform:rotate(180deg);
 	-moz-transform:rotate(180deg);
@@ -327,12 +327,19 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 }
 
 @media screen and (max-width:320px) {
-.st-accordion ul li>a {
-font-size:26px;}
+	.st-accordion ul li>a {
+		font-size:24px;
+	}
 }
 @media screen and (max-width:480px) {
-.st-accordion ul li>a {
-font-size:30px;}
+	.st-accordion ul li>a {
+	font-size:24px;
+	}
+
+	.st-accordion h2 {
+		font-size: 18px;
+	}
+
 }
 
 /***************************************************
