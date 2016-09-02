@@ -32,7 +32,7 @@ em { font-style:italic; }
 	01. GENERAL
 ***************************************************/
 body {
-	background:#660099;
+	background:#660099 url('../../style/images/bg_woman_orchids.jpg') no-repeat fixed center;
 	color:#DDD;
 	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
@@ -367,6 +367,7 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 	max-width:100%;
 	display:block;
 	width: 100%;
+	border-radius: 20px;
 }
 .flex-pauseplay span { text-transform: capitalize; }
 
@@ -385,18 +386,13 @@ html[xmlns] .slides { display:block; }
 /* No JavaScript Fallback */
 /* If you are not using another script,such as Modernizr,make sure you * include js that eliminates this class on page load */
 .no-js .slides>li:first-child { display: block;}
-.flexslider {
-	background:#0a0014;
+.flexslider {	
 	border:0px solid #bbb;
 	position:relative;
 	-webkit-border-radius:2px;
 	-moz-border-radius:5px;
-	-o-border-radius:5px;
-	border-radius:5px;
+	-o-border-radius:5px;	
 	zoom:1;
-	-webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
-	-moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
-	box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
 }
 .flexslider .slides { zoom:1; }
 .flexslider .slides>li { position: relative; }
