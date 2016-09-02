@@ -32,7 +32,7 @@ em { font-style:italic; }
 	01. GENERAL
 ***************************************************/
 body {
-	background:#660099 url('../../style/images/bg_woman_orchids.jpg') no-repeat fixed center;
+	background:#660099;
 	color:#DDD;
 	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
@@ -388,10 +388,7 @@ html[xmlns] .slides { display:block; }
 .no-js .slides>li:first-child { display: block;}
 .flexslider {	
 	border:0px solid #bbb;
-	position:relative;
-	-webkit-border-radius:2px;
-	-moz-border-radius:5px;
-	-o-border-radius:5px;	
+	position:relative;	
 	zoom:1;
 }
 .flexslider .slides { zoom:1; }
