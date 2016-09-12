@@ -367,7 +367,7 @@ ul #bullet li, ul #bullet2 li, ul #bullet3 li{
 	max-width:100%;
 	display:block;
 	width: 100%;
-	border-radius: 20px;
+	border-radius: 10px;
 }
 .flex-pauseplay span { text-transform: capitalize; }
 
