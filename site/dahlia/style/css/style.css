@@ -1091,3 +1091,14 @@ and (min-width: 768px) and (max-width: 1023px) {
 	height: 40px;
 	width: 40px;
 }
+
+.call-to-action {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 26px;
+	color: #fff;
+	font-weight: 400;
+	text-shadow: 2px 2px #222;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
