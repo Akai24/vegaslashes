@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Photology v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-31 17:47+0800\n"
+"PO-Revision-Date: 2015-08-31 17:48+0800\n"
+"Last-Translator: Jegtheme <support@jegtheme.com>\n"
+"Language-Team: Jegtheme <support@jegtheme.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "404"
+msgstr "404"
+
+#: ../404.php:21
+msgid "It look like the page you're looking for doesn't exist, sorry"
+msgstr "It look like the page you're looking for doesn't exist, sorry"
+
+#: ../archive.php:10 ../lib/common-function.php:913
+#, php-format
+msgid "Tag archive for : <b>%s</b>"
+msgstr "Tag archive for : <b>%s</b>"
+
+#: ../archive.php:12 ../lib/common-function.php:915
+#, php-format
+msgid "Post filled under : <b>%s</b>"
+msgstr "Post filled under : <b>%s</b>"
+
+#: ../archive.php:14 ../lib/common-function.php:917
+#, php-format
+msgid "Post written by : <b>%s</b>"
+msgstr "Post written by : <b>%s</b>"
+
+#: ../archive.php:16 ../lib/common-function.php:919
+#, php-format
+msgid "%s - Archive"
+msgstr "%s - Archive"
+
+#: ../comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"This post is password protected. Enter the password to view any comments."
+
+# @ jeg_textdomain
+#: ../comments.php:18
+msgid "Name"
+msgstr "Name"
+
+# @ jeg_textdomain
+#: ../comments.php:20
+msgid "Email"
+msgstr "Email"
+
+# @ jeg_textdomain
+#: ../comments.php:22
+msgid "Website"
+msgstr "Website"
+
+#: ../comments.php:42
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Required fields are marked %s"
+
+# @ jeg_textdomain
+#: ../comments.php:46
+msgid "Comment"
+msgstr "Comment"
+
+#: ../comments.php:47
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: ../comments.php:48
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+
+#: ../comments.php:49
+msgid "Your email address will not be published"
+msgstr "Your email address will not be published"
+
+#: ../comments.php:50
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+
+#: ../comments.php:53
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: ../comments.php:54
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: ../comments.php:55
+msgid "Cancel reply"
+msgstr "Cancel reply"
+
+#: ../comments.php:56
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: ../comments.php:96
+msgid "Please login to comment"
+msgstr "Please login to comment"
+
+#: ../fragment/archive-blog-masonry.php:28
+#: ../fragment/archive-blog-normal.php:30 ../index.php:28
+#: ../template-blog-masonry.php:145 ../template-blog-normal.php:58
+msgid "Post Not Found"
+msgstr "Post Not Found"
+
+#: ../fragment/masonry-blog-post-summary.php:22
+#: ../fragment/normal-blog-post-summary.php:34
+msgid "Continue reading"
+msgstr "Continue reading"
+
+#: ../fragment/mobile-menu.php:4
+msgid "Mobile Menu"
+msgstr "Mobile Menu"
+
+#: ../fragment/mobile-menu.php:8
+msgid "Social Link"
+msgstr "Social Link"
+
+#: ../fragment/normal-blog-post-full.php:17
+#: ../fragment/normal-blog-post-summary.php:21
+#: ../fragment/page-full-content.php:7
+msgid "by "
+msgstr "by "
+
+#: ../fragment/normal-blog-post-full.php:20
+#: ../fragment/normal-blog-post-summary.php:24
+#: ../fragment/page-full-content.php:10
+msgid "In"
+msgstr "In"
+
+#: ../fragment/normal-blog-post-full.php:28
+#: ../fragment/page-full-content.php:19
+msgid "Pages:"
+msgstr "Pages:"
+
+#: ../fragment/password-form.php:6
+#: ../fragment/portfolio-fragment-theather.php:93
+#: ../fragment/portfolio-single.php:99
+msgid "Enter Your Password"
+msgstr "Enter Your Password"
+
+#: ../fragment/portfolio-ajax.php:26
+#: ../fragment/portfolio-fragment-content.php:11
+#: ../fragment/portfolio-fragment-theather.php:15
+#: ../fragment/portfolio-single.php:28
+msgid "Share this portfolio"
+msgstr "Share this portfolio"
+
+#: ../fragment/portfolio-ajax.php:47
+#: ../fragment/portfolio-fragment-content.php:18
+#: ../fragment/portfolio-fragment-theather.php:22
+#: ../fragment/portfolio-single.php:49
+msgid "Previous Portfolio"
+msgstr "Previous Portfolio"
+
+#: ../fragment/portfolio-ajax.php:54
+#: ../fragment/portfolio-fragment-content.php:25
+#: ../fragment/portfolio-fragment-theather.php:29
+#: ../fragment/portfolio-single.php:56
+msgid "Next Portfolio"
+msgstr "Next Portfolio"
+
+#: ../fragment/portfolio-ajax.php:61
+#: ../fragment/portfolio-fragment-content.php:32
+#: ../fragment/portfolio-fragment-theather.php:36
+#: ../fragment/portfolio-single.php:63
+msgid "Portfolio Detail"
+msgstr "Portfolio Detail"
+
+#: ../fragment/portfolio-ajax.php:68
+#: ../fragment/portfolio-fragment-content.php:39
+#: ../fragment/portfolio-fragment-theather.php:43
+#: ../fragment/portfolio-single.php:70
+msgid "Change Portfolio Zoom"
+msgstr "Change Portfolio Zoom"
+
+#: ../fragment/portfolio-ajax.php:75
+#: ../fragment/portfolio-fragment-theather.php:50
+#: ../fragment/portfolio-single.php:77
+msgid "Portfolio List"
+msgstr "Portfolio List"
+
+#: ../fragment/portfolio-ajax.php:82
+#: ../fragment/portfolio-fragment-content.php:53
+#: ../fragment/portfolio-fragment-theather.php:57
+#: ../fragment/portfolio-single.php:84
+msgid "Close Video"
+msgstr "Close Video"
+
+#: ../fragment/portfolio-ajax.php:175
+#: ../fragment/portfolio-fragment-content.php:73
+#: ../fragment/portfolio-fragment-theather.php:119
+#: ../fragment/portfolio-single.php:219
+msgid "Share Our Portfolio"
+msgstr "Share Our Portfolio"
+
+#: ../fragment/portfolio-ajax.php:179
+#: ../fragment/portfolio-fragment-content.php:77
+#: ../fragment/portfolio-fragment-theather.php:123
+#: ../fragment/portfolio-single.php:223
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+#: ../fragment/portfolio-ajax.php:182
+#: ../fragment/portfolio-fragment-content.php:80
+#: ../fragment/portfolio-fragment-theather.php:126
+#: ../fragment/portfolio-single.php:226
+msgid "Tweet on Twitter"
+msgstr "Tweet on Twitter"
+
+#: ../fragment/portfolio-ajax.php:185
+#: ../fragment/portfolio-fragment-content.php:83
+#: ../fragment/portfolio-fragment-theather.php:129
+#: ../fragment/portfolio-single.php:229
+msgid "Share on Google Plus"
+msgstr "Share on Google Plus"
+
+#: ../fragment/portfolio-ajax.php:188
+#: ../fragment/portfolio-fragment-content.php:86
+#: ../fragment/portfolio-fragment-theather.php:132
+#: ../fragment/portfolio-single.php:232
+msgid "Pin on Pinterest"
+msgstr "Pin on Pinterest"
+
+#: ../fragment/portfolio-fragment-content.php:46
+msgid "Show portfolio list"
+msgstr "Show portfolio list"
+
+#: ../fragment/portfolio-side.php:107
+msgid "prev"
+msgstr "prev"
+
+#: ../fragment/portfolio-side.php:110
+msgid "list"
+msgstr "list"
+
+#: ../fragment/portfolio-side.php:113
+msgid "next"
+msgstr "next"
+
+#: ../fragment/portfolio-single.php:107 ../fragment/portfolio-single.php:127
+msgid "Submit"
+msgstr "Submit"
+
+#: ../fragment/portfolio-single.php:119
+msgid "Wrong Password"
+msgstr "Wrong Password"
+
+#: ../fragment/post-share.php:2
+msgid "Share This Article"
+msgstr "Share This Article"
+
+#: ../lib/common-function.php:142 ../template-portfolio.php:182
+msgid "Page"
+msgstr "Page"
+
+#: ../lib/common-function.php:143 ../template-portfolio.php:183
+msgid "From"
+msgstr "From"
+
+# @ jeg_textdomain
+#: ../lib/common-function.php:311
+msgid "% Comments"
+msgstr "% Comments"
+
+#: ../lib/common-function.php:314
+msgid "No Comments"
+msgstr "No Comments"
+
+# @ jeg_textdomain
+#: ../lib/common-function.php:317
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: ../lib/common-function.php:340
+msgid "Reply"
+msgstr "Reply"
+
+#: ../lib/common-function.php:341
+msgid "Cancel Reply"
+msgstr "Cancel Reply"
+
+#: ../lib/common-function.php:350
+msgid "Your comment is awaiting moderation"
+msgstr "Your comment is awaiting moderation"
+
+#: ../lib/common-function.php:868
+msgid "GET DIRECTION"
+msgstr "GET DIRECTION"
+
+# @ jeg_textdomain
+#: ../lib/load-script.php:23
+msgid "Share Article to"
+msgstr "Share Article to"
+
+#: ../search.php:3
+#, php-format
+msgid "Search for : <b>%s</b>"
+msgstr "Search for : <b>%s</b>"
+
+#: ../template-blog-masonry.php:25 ../template-blog-masonry.php:67
+msgid "Blog Sort &amp; Filter"
+msgstr "Blog Sort &amp; Filter"
+
+#: ../template-blog-masonry.php:29 ../template-blog-masonry.php:71
+msgid "Sort blog by :"
+msgstr "Sort blog by :"
+
+#: ../template-blog-masonry.php:31 ../template-blog-masonry.php:73
+msgid "Popularity"
+msgstr "Popularity"
+
+#: ../template-blog-masonry.php:32 ../template-blog-masonry.php:74
+msgid "Date"
+msgstr "Date"
+
+#: ../template-blog-masonry.php:35 ../template-blog-masonry.php:78
+msgid "Filter blog category :"
+msgstr "Filter blog category :"
+
+# @ jeg_textdomain
+#: ../template-blog-masonry.php:37 ../template-blog-masonry.php:80
+#: ../template-portfolio.php:35 ../template-portfolio.php:77
+msgid "All Category"
+msgstr "All Category"
+
+#: ../template-contact-fullmap.php:39
+msgid "Location"
+msgstr "Location"
+
+#: ../template-contact-fullmap.php:52
+msgid "Contact"
+msgstr "Contact"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:333 ../tgm/plugin-list.php:113
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:334 ../tgm/plugin-list.php:114
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:335 ../tgm/plugin-list.php:115
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: ../tgm/class-tgm-plugin-activation.php:336 ../tgm/plugin-list.php:116
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:338 ../tgm/plugin-list.php:117
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:343 ../tgm/plugin-list.php:118
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#: ../tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:353 ../tgm/plugin-list.php:123
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[1] ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+
+#: ../tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "There is an update available for: %1$s."
+msgstr[1] "There are updates available for the following plugins: %1$s."
+
+#: ../tgm/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:368 ../tgm/plugin-list.php:120
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:373 ../tgm/plugin-list.php:121
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: ../tgm/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:383 ../tgm/plugin-list.php:125
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: ../tgm/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin updating plugin"
+msgstr[1] "Begin updating plugins"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Begin activating plugins"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:397 ../tgm/plugin-list.php:127
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Return to the dashboard"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:399
+#: ../tgm/class-tgm-plugin-activation.php:3034 ../tgm/plugin-list.php:128
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:400
+#: ../tgm/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "The following plugin was activated successfully:"
+msgstr[1] "The following plugins were activated successfully:"
+
+#: ../tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#: ../tgm/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: ../tgm/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: ../tgm/class-tgm-plugin-activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr "Required"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr "Recommended"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: ../tgm/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr "External Source"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr "Not Installed"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: ../tgm/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr "Active"
+
+#: ../tgm/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr "Required Update not Available"
+
+#: ../tgm/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: ../tgm/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#: ../tgm/class-tgm-plugin-activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: ../tgm/class-tgm-plugin-activation.php:2285
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#: ../tgm/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "To Install <span class=\"count\">(%s)</span>"
+
+#: ../tgm/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update Available <span class=\"count\">(%s)</span>"
+msgstr[1] "Update Available <span class=\"count\">(%s)</span>"
+
+#: ../tgm/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] "To Activate <span class=\"count\">(%s)</span>"
+
+#: ../tgm/class-tgm-plugin-activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#: ../tgm/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: ../tgm/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: ../tgm/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr "Available version:"
+
+#: ../tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr "Plugin"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr "Source"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr "Type"
+
+#: ../tgm/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr "Version"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr "Status"
+
+#: ../tgm/class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: ../tgm/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#: ../tgm/class-tgm-plugin-activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr "Install"
+
+#: ../tgm/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr "Update"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr "Activate"
+
+#: ../tgm/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: ../tgm/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: ../tgm/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: ../tgm/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: ../tgm/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+# @ tgmpa
+#: ../tgm/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+# @ jeg_textdomain
+#: ../tgm/plugin-list.php:119
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+
+# @ jeg_textdomain
+#: ../tgm/plugin-list.php:122
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+
+# @ jeg_textdomain
+#: ../tgm/plugin-list.php:124
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+
+# @ jeg_textdomain
+#: ../tgm/plugin-list.php:126
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activate installed plugin"
+msgstr[1] "Activate installed plugins"
+
+#: ../tgm/plugin-list.php:129
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: ../tgm/plugin-list.php:130
+msgid "updated"
+msgstr "updated"
+
+# @ jeg_textdomain
+#, fuzzy
+#~ msgid "Type and Enter to Search"
+#~ msgstr "Type and Enter to Search"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+# @ jeg_textdomain
+#~ msgid "Sort by"
+#~ msgstr "Sort by"
+
+#~ msgid "Filter by"
+#~ msgstr "Filter by"
+
+# @ tgmpa
+#~ msgid "Something went wrong."
+#~ msgstr "Something went wrong."
+
+# @ tgmpa
+#~ msgid "Private Repository"
+#~ msgstr "Private Repository"
+
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\">Return to the "
+#~ "Dashboard</a>"
+#~ msgstr ""
+#~ "No plugins to install or activate. <a href=\"%1$s\">Return to the "
+#~ "Dashboard</a>"
+
+# @ tgmpa
+#~ msgid "Install package not available."
+#~ msgstr "Install package not available."
+
+# @ tgmpa
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+# @ tgmpa
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Unpacking the package&#8230;"
+
+# @ tgmpa
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Installing the plugin&#8230;"
+
+# @ tgmpa
+#~ msgid "Plugin install failed."
+#~ msgstr "Plugin install failed."
+
+# @ tgmpa
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Plugin installed successfully."
+
+# @ tgmpa
+#~ msgid "Show Details"
+#~ msgstr "Show Details"
+
+# @ tgmpa
+#~ msgid "Hide Details"
+#~ msgstr "Hide Details"
+
+# @ tgmpa
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s installed successfully."

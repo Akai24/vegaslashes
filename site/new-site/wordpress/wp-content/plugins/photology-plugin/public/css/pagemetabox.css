@@ -1,0 +1,19 @@
+#photology_normal_blog_metabox,
+#photology_blogcontent_metabox,
+#photology_masonry_blog_metabox,
+#photology_default_page_metabox,
+#photology_kenburn_metabox,
+#photology_slider_content_metabox,
+#photology_ios_metabox,
+#photology_service_slider_metabox,
+#photology_slider_gallery_metabox,
+#photology_slider_gallery,
+#photology_media_gallery_metabox,
+#photology_media_gallery,
+#photology_media_gallery_side_metabox,
+#photology_portfolio_list_metabox,
+#photology_contact_map_metabox,
+#photology_page_metabox
+{
+    display: none;
+}
