@@ -16217,3 +16217,71 @@
 [11-Feb-2017 23:14:46 UTC] PHP   2. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-admin\admin-ajax.php:22
 [11-Feb-2017 23:14:46 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
 [11-Feb-2017 23:14:46 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[11-Feb-2017 23:50:38 UTC] PHP Warning:  include(C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php): failed to open stream: No such file or directory in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[11-Feb-2017 23:50:38 UTC] PHP Stack trace:
+[11-Feb-2017 23:50:38 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\index.php:0
+[11-Feb-2017 23:50:38 UTC] PHP   2. require() C:\git\vegaslashes\site\new-site\wordpress\index.php:17
+[11-Feb-2017 23:50:38 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-blog-header.php:13
+[11-Feb-2017 23:50:38 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[11-Feb-2017 23:50:38 UTC] PHP   5. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[11-Feb-2017 23:50:38 UTC] PHP Warning:  include(): Failed opening 'C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[11-Feb-2017 23:50:38 UTC] PHP Stack trace:
+[11-Feb-2017 23:50:38 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\index.php:0
+[11-Feb-2017 23:50:38 UTC] PHP   2. require() C:\git\vegaslashes\site\new-site\wordpress\index.php:17
+[11-Feb-2017 23:50:38 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-blog-header.php:13
+[11-Feb-2017 23:50:38 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[11-Feb-2017 23:50:38 UTC] PHP   5. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[11-Feb-2017 23:51:00 UTC] PHP Warning:  include(C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php): failed to open stream: No such file or directory in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[11-Feb-2017 23:51:00 UTC] PHP Stack trace:
+[11-Feb-2017 23:51:00 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\index.php:0
+[11-Feb-2017 23:51:00 UTC] PHP   2. require() C:\git\vegaslashes\site\new-site\wordpress\index.php:17
+[11-Feb-2017 23:51:00 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-blog-header.php:13
+[11-Feb-2017 23:51:00 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[11-Feb-2017 23:51:00 UTC] PHP   5. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[11-Feb-2017 23:51:00 UTC] PHP Warning:  include(): Failed opening 'C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[11-Feb-2017 23:51:00 UTC] PHP Stack trace:
+[11-Feb-2017 23:51:00 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\index.php:0
+[11-Feb-2017 23:51:00 UTC] PHP   2. require() C:\git\vegaslashes\site\new-site\wordpress\index.php:17
+[11-Feb-2017 23:51:00 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-blog-header.php:13
+[11-Feb-2017 23:51:00 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[11-Feb-2017 23:51:00 UTC] PHP   5. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[12-Feb-2017 00:35:39 UTC] PHP Warning:  include(C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php): failed to open stream: No such file or directory in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[12-Feb-2017 00:35:39 UTC] PHP Stack trace:
+[12-Feb-2017 00:35:39 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\index.php:0
+[12-Feb-2017 00:35:39 UTC] PHP   2. require() C:\git\vegaslashes\site\new-site\wordpress\index.php:17
+[12-Feb-2017 00:35:39 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-blog-header.php:13
+[12-Feb-2017 00:35:39 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[12-Feb-2017 00:35:39 UTC] PHP   5. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[12-Feb-2017 00:35:39 UTC] PHP Warning:  include(): Failed opening 'C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[12-Feb-2017 00:35:39 UTC] PHP Stack trace:
+[12-Feb-2017 00:35:39 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\index.php:0
+[12-Feb-2017 00:35:39 UTC] PHP   2. require() C:\git\vegaslashes\site\new-site\wordpress\index.php:17
+[12-Feb-2017 00:35:39 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-blog-header.php:13
+[12-Feb-2017 00:35:39 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[12-Feb-2017 00:35:39 UTC] PHP   5. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[12-Feb-2017 00:35:48 UTC] PHP Warning:  include(C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php): failed to open stream: No such file or directory in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[12-Feb-2017 00:35:48 UTC] PHP Stack trace:
+[12-Feb-2017 00:35:48 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\wp-admin\index.php:0
+[12-Feb-2017 00:35:48 UTC] PHP   2. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-admin\index.php:10
+[12-Feb-2017 00:35:48 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-admin\admin.php:31
+[12-Feb-2017 00:35:48 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[12-Feb-2017 00:35:48 UTC] PHP   5. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[12-Feb-2017 00:35:48 UTC] PHP Warning:  include(): Failed opening 'C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[12-Feb-2017 00:35:48 UTC] PHP Stack trace:
+[12-Feb-2017 00:35:48 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\wp-admin\index.php:0
+[12-Feb-2017 00:35:48 UTC] PHP   2. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-admin\index.php:10
+[12-Feb-2017 00:35:48 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-admin\admin.php:31
+[12-Feb-2017 00:35:48 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[12-Feb-2017 00:35:48 UTC] PHP   5. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[12-Feb-2017 00:35:48 UTC] PHP Warning:  include(C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php): failed to open stream: No such file or directory in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[12-Feb-2017 00:35:48 UTC] PHP Stack trace:
+[12-Feb-2017 00:35:48 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\wp-login.php:0
+[12-Feb-2017 00:35:48 UTC] PHP   2. require() C:\git\vegaslashes\site\new-site\wordpress\wp-login.php:12
+[12-Feb-2017 00:35:48 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[12-Feb-2017 00:35:48 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
+[12-Feb-2017 00:35:48 UTC] PHP Warning:  include(): Failed opening 'C:\git\vegaslashes\site\new-site\wordpress/wp-content/advanced-cache.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\git\vegaslashes\site\new-site\wordpress\wp-settings.php on line 84
+[12-Feb-2017 00:35:48 UTC] PHP Stack trace:
+[12-Feb-2017 00:35:48 UTC] PHP   1. {main}() C:\git\vegaslashes\site\new-site\wordpress\wp-login.php:0
+[12-Feb-2017 00:35:48 UTC] PHP   2. require() C:\git\vegaslashes\site\new-site\wordpress\wp-login.php:12
+[12-Feb-2017 00:35:48 UTC] PHP   3. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-load.php:37
+[12-Feb-2017 00:35:48 UTC] PHP   4. require_once() C:\git\vegaslashes\site\new-site\wordpress\wp-config.php:161
