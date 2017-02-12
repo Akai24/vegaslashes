@@ -16,6 +16,7 @@ if ( ! post_password_required() )
             <div class="pageholdwrapper">
 
                 <div class="mainpage blog-normal-article">
+                <p>hi</p>
                     <?php get_template_part('fragment/page-full-content'); ?>
                 </div>
 

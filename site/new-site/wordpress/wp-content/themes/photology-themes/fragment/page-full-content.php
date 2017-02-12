@@ -1,6 +1,10 @@
 <div <?php post_class('pageinnerwrapper') ?>>
 
     <div class="article-header">
+        <!-- the below was added by Ayo on 2/11/2017 to inject a call to action -->
+        <?php if(wp_make_link_relative(get_permalink()) != '/contact/') : ?>
+            <div>Located here in Las Vegas - Call or text me at (702) 850-3484</div>
+        <?php endif; ?>
 
         <?php if(!vp_metabox('photology_page.hide_meta')) : ?>
         <div class="meta-top">
