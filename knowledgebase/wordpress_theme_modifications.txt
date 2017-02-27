@@ -1,0 +1,2 @@
+1. Many modifications are in: C:\git\vegaslashes\site\new-site\wordpress\wp-content\themes\photology-themes\fragment
+2. The main page that we modify is: page-full-content.php

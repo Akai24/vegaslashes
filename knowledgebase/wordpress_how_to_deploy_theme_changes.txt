@@ -1,0 +1,2 @@
+1. Login via FTP (domain: ftp.beautifybyportia.com, user: beautify, pwd: ******)
+2. Deploy modified wordpress files.
