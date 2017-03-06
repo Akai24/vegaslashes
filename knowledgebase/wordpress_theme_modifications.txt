@@ -1,2 +1,5 @@
 1. Many modifications are in: C:\git\vegaslashes\site\new-site\wordpress\wp-content\themes\photology-themes\fragment
 2. The main page that we modify is: page-full-content.php
+
+3. There are also css modifications under Appearance > Customize > Additional CSS
+4. The instagram feed has also been customized via Instagram Feed WD > Settings > Custom CSS
