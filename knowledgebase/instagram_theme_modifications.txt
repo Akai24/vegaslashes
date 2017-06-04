@@ -1,0 +1,7 @@
+1. The below CSS was added to the Custom CSS:
+
+#wdi_feed_0 .wdi_feed_item {  background: #d7d7d7;}#wdi_feed_0 .wdi_photo_wrap_inner {  border: 5px solid #d7d7d7;}#wdi_feed_0 .wdi_feed_wrapper {   background: #d7d7d7;}
+#wdi_feed_0 .wdi_feed_container {
+background: #d7d7d7;
+border: 5px solid #d7d7d7;
+}

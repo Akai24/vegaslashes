@@ -13,10 +13,13 @@ if ( ! post_password_required() )
 
     <div class="pagewrapper fullwidth pagecenter <?php echo esc_attr ( vp_metabox('photology_default_page.page_layout') === 'withsidebar' ? 'withsidebar' : 'nosidebar' ) ; ?>">
         <div class="pageholder">
+            <?php if (has_post_thumbnail( $post->ID ) ): ?>
+              <?php $image = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'single-post-thumbnail' ); ?>
+              <img src="<?php echo $image[0]; ?>">
+            <?php endif; ?>
             <div class="pageholdwrapper">
 
                 <div class="mainpage blog-normal-article">
-                <p>hi</p>
                     <?php get_template_part('fragment/page-full-content'); ?>
                 </div>
 
